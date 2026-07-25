@@ -21,7 +21,7 @@ function VelaButton() {
         alt="VELA AI"
         title="Chat with VELA"
       />
-      <div className="vela-label">VELA ✨</div>
+      <div className="vela-label">Hi I'M VELA ✨</div>
     </>
   );
 }
